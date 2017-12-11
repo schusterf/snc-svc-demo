@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="SVC Demo" max_length="40" name="x_snc_svc_demo_svc_demo" type="collection"/>
+    <element audit="true" extends="task" label="SVC Demo" max_length="40" name="x_snc_svc_demo_svc_demo" type="collection"/>
 </database>

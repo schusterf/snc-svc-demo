@@ -16,8 +16,8 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f806fd10db034300b46f7bfdae96191e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>SVC Demo Tablre</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SVC Demo Table</sys_name>
         <sys_overrides/>
         <sys_package display_value="Source Control Demo" source="x_snc_svc_demo">8fa5711cdbcf0300b46f7bfdae961924</sys_package>
         <sys_policy/>
@@ -25,8 +25,8 @@
         <sys_scope display_value="Source Control Demo">8fa5711cdbcf0300b46f7bfdae961924</sys_scope>
         <sys_update_name>sys_app_application_f806fd10db034300b46f7bfdae96191e</sys_update_name>
         <sys_updated_by>frank.schuster</sys_updated_by>
-        <sys_updated_on>2017-12-11 08:36:18</sys_updated_on>
-        <title>SVC Demo Tablre</title>
+        <sys_updated_on>2017-12-11 08:44:50</sys_updated_on>
+        <title>SVC Demo Table</title>
         <view_name/>
     </sys_app_application>
 </record_update>

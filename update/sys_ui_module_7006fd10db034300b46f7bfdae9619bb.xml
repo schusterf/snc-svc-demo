@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="SVC Demo Tablre">b006fd10db034300b46f7bfdae9619b9</application>
+        <application display_value="SVC Demo Table">b006fd10db034300b46f7bfdae9619b9</application>
         <filter/>
         <name>SVC Demos</name>
         <order/>
